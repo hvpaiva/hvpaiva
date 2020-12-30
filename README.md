@@ -9,9 +9,9 @@
 
 <p>
 
-  I'm Highlander, Backend Developer from Brazil. I'm currently working with Java's Micronaut Framework and Spring Framework, stack that I love ♥️.
+  I'm <b>Highlander</b>, Backend Developer from Brazil. I'm currently working with Micronaut and Spring, both Java's Frameworks.
 
-  But I'm also enjoying to create microservices with Amazon AWS services, using Terraform and Serverless as well. 
+  But I'm also enjoying to create microservices with Amazon AWS, using Terraform and Serverless as well. 
 
   I'm studying to become a <b>Solution Architect</b>.
   
@@ -23,15 +23,15 @@
 
 ### Talking about Personal Stuffs
 
-- 🔭 I’m Backend Developer at [Inter Bank](https://www.bancointer.com.br/);
+- 🔭 I’m *Backend Developer* at **[Inter](https://www.bancointer.com.br/)**, an digital bank;
 
-- 🌱 I’m currently learning Micronaut Framework in Java Language;
+- 🌱 I’m currently learning *Micronaut Framework* in Java Language;
 
-- 💼 I'm currently working on getting the AWS Architect Solution Certificate;
+- 💼 I'm currently working on getting the **AWS Architect Solution Certificate**;
 
 - 💬 Ask me about anything, I am happy to help;
 
-- ⚡ Fun fact: My name is based in a movie, [Highlander (1986)](https://m.imdb.com/title/tt0091203/);
+- ⚡ Fun fact: My name is based on a movie, **[Highlander (1986)](https://m.imdb.com/title/tt0091203/)**;
 
 
 
@@ -58,9 +58,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/> Typescript</code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/> NodeJS</code>
 
+
+
 **Frameworks Backend**
 
-<!-- Spring, Micronaut, NestJS, AdonisJS -->
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCQ1vGED--tv3x7yoo7HlLtPv-92LGgBUT3O2AspuJqysnbTnN91ez2G62Re1xIRcoOVxmdAh09zJplGxcSdQgQpqn5J_ANTJsg&usqp=CAU&ec=45750089" alt="Spring"/> Spring</code>
 <code><img height="32" src="https://objectcomputing.com/files/8815/5560/7919/micronaut-swirl.png" alt="Micronaut"/> Micronaut</code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="Dotnet"/> Dotnet</code>
@@ -68,10 +69,12 @@
 <code><img height="32" src="https://symbols.getvecta.com/stencil_73/35_adonisjs-icon.f7379b6649.jpg" alt="AdonisJS"/> AdonisJS</code>
 
 
+
 **Frameworks Frontend**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS"/> ReactJS</code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"/> VueJS</code>
+
 
 
 **Databases**
@@ -82,6 +85,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/> MongoDB</code>
 <code><img height="32" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="DynamoDB"/> DynamoDB</code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/redis-4-1175103.png" alt="Redis"/> Redis</code>
+
+
 
 **DevOps & Cloud**
 
@@ -105,6 +110,7 @@
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZi0S-6dMbNSr74YcQrVgP4djq0AdbnHGJ2PN88Er9J2-FJ7HTBxDjVIgQfRP8enV2YlCDwbY5yEJgWybPMEgAanTYR8VDamUTYQ&usqp=CAU&ec=45750089" alt="Sentry"/> Sentry</code>
 
 
+
 **Business Tools**
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/> Jira</code>
@@ -113,14 +119,13 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/> Trello</code>
 
 
+
 **Utilities**
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/> Insomnia</code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/> Postman</code>
 
 <br/>
-
-
 
 
 ## Coding Activity
