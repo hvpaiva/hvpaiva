@@ -45,13 +45,6 @@
   </a> 
 </div>
 
-<a href="https://www.linkedin.com/in/hvpaiva">
-  <code><img alt="My linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></code>
-</a>
-<a href="mailto: hvpaiva@icloud.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" /></code>
-</a>
-
 <br/><br/>
 
 
