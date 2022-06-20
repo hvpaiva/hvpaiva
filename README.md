@@ -25,9 +25,9 @@
 
 - 🔭 I’m *Backend Developer* at **[Inter](https://www.bancointer.com.br/)**, an digital bank;
 
-- 🌱 I’m currently learning *Clojure* a functional Language;
+- 🌱 I’m currently learning *Clojure*, a functional Language;
 
-- 💼 I'm currently working on getting the **Java 17 Certificate**;
+- 💼 I'm also working on getting the **Java 17 Certificate**;
 
 - 💬 Ask me about anything, I am happy to help;
 
