@@ -9,9 +9,9 @@
 
 <p>
 
-  I'm <b>Highlander</b>, Backend Developer from Brazil. I'm currently working as Java Backend developer, but I really like to create Haskell algorithms in my spare time.
+  IMy name is **Highlander**, Backend Developer from Brazil. I'm currently working as a Java Tech Lead, but I really enjoy creating Haskell algorithms and Kotlin projects in my spare time.
 
-  I'm studying to become a <b>Java 17 Certified</b>.
+  I'm studying to become a <b>Software Architect</b>.
   
 </p>
 
@@ -21,11 +21,11 @@
 
 ### Talking about Personal Stuffs
 
-- 🔭 I’m *Backend Developer* at **[Inter](https://www.bancointer.com.br/)**, an digital bank;
+- 🔭 I’m a *Tech Lead* at **[Inter](https://www.bancointer.com.br/en/)**, an digital bank;
 
 - 🌱 I’m currently learning *Haskell*, a wonderfull functional Language;
 
-- 💼 I'm also working on getting the **Java 17 Certificate**;
+- 💼 I am also working to become a **Software Architect**;
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -53,7 +53,7 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" alt="Java"/> Java</code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="Haskell"/> Haskell</code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#"/> C#</code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin"/> Kotlin</code>
 
 <br/>
 
