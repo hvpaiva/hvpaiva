@@ -15,7 +15,7 @@ while(true) {
 }
 ```
 
-🚀 Backend Developer from Brazil, Tech Lead at **[Inter](https://www.bancointer.com.br/en/)**, and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
+🚀 Backend Developer from Brazil, Tech Lead at Mercado Livre, and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
 
 Feel free to ask me about anything, I'm happy to help! 😄
 
@@ -27,8 +27,6 @@ My name is based on the movie **[Highlander (1986)](https://m.imdb.com/title/tt0
 <br/><br/>
 
 ## 📫 Get in touch
-
-- 📧 Email: [hvpaiva@icloud.com](mailto:hvpaiva@icloud.com)
 
 - 🔗 LinkedIn: [Highlander Paiva](https://www.linkedin.com/in/hvpaiva)
 
