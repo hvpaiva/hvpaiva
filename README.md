@@ -5,7 +5,7 @@ val highlander = Developer(
     name = "Highlander",
     role = "Backend Developer",
     country = "Brazil",
-    currentJob = "Java Tech Lead",
+    currentJob = "Software Engineer SSr",
     hobbies = listOf("Exploring functional programming", "Building cool Kotlin projects"),
     goal = "Software Architect"
 )
@@ -15,7 +15,7 @@ while(true) {
 }
 ```
 
-🚀 Backend Developer from Brazil, Tech Lead at Mercado Livre, and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
+🚀 Backend Developer from Brazil, Software Engineer SSr at Mercado Livre, and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
 
 Feel free to ask me about anything, I'm happy to help! 😄
 
@@ -37,10 +37,13 @@ My name is based on the movie **[Highlander (1986)](https://m.imdb.com/title/tt0
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![Go](![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
+<!-- https://github.com/Ileriayo/markdown-badges -->
+
 ```kotlin
-val myStack = setOf("Kotlin", "Java", "Haskell", "Spring")
+val myStack = setOf("Kotlin", "Java", "Haskell", "Go", "Spring")
 myStack.forEach { highlander.stacks += it }
 ```
 <br/><br/>
