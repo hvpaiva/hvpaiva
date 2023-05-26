@@ -15,7 +15,7 @@ while(true) {
 }
 ```
 
-🚀 Backend Developer from Brazil, Software Engineer SSr at Mercado Livre, and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
+🚀 Backend Developer from Brazil, Software Engineer SSr at [Mercado Livre](https://www.mercadolivre.com.br/), and **_Haskell_** enthusiast on the side! I'm on the path to become a **Software Architect** and love creating **Kotlin** libs and personal projects in my spare time. 🎯
 
 Feel free to ask me about anything, I'm happy to help! 😄
 
