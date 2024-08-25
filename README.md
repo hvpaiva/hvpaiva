@@ -55,7 +55,7 @@ fun main() {
         role = "Backend Developer",
         country = "Brazil",
         currentJob = "Software Engineer SSr",
-        hobbies = listOf("Exploring POO programming", "Building cool Kotlin projects"),
+        hobbies = listOf("Exploring OOP programming", "Building cool Kotlin projects"),
         goal = "Software Architect"
     )
 
