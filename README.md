@@ -1,50 +1,28 @@
-```rust
-// 👋 Hey there, I'm Highlander Paiva! 🇧🇷
+# Hi, I'm Highlander Paiva 👋
 
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    country: &'static str,
-    current_job: &'static str,
-    goal: &'static str,
-    linkedin: &'static str,
-    fun_fact: &'static str,
-}
+I am a **Platform Engineer** with experience building and maintaining large-scale developer platforms and critical services. My current work focuses on **cloud integration, security best practices, automation, and system reliability**.
 
-impl Developer {
-    fn new() -> Self {
-        Developer {
-            name: "Highlander Paiva",
-            role: "Backend Developer",
-            country: "Brazil",
-            current_job: "Software Engineer SSr at Mercado Livre",
-            goal: "Become a versatile and impactful Software Architect",
-            fun_fact: "My name is based on the movie 'Highlander (1986)'. There can be only one! ⚔️",
-        }
-    }
+I started my career in design and gradually moved through front-end, back-end, and full-stack development, before focusing on platform engineering. Now I’m deepening my path toward **Site Reliability Engineering (SRE)** and **Cloud Security**, combining reliability practices with strong attention to secure software design.
 
-    fn introduce(&self) {
-        println!("👋 Hey there, I'm {}! 🇧🇷", self.name);
-        println!("🚀 {} from {}, currently working as {}.", self.role, self.country, self.current_job);
-        println!("🎯 Goal: {}", self.goal);
-        println!("🎬 Fun fact: {}", self.fun_fact);
-    }
+---
 
-    fn advise(&self) {
-        println!("🌟 Keep exploring, learning, and having fun! 🌟");
-    }
-}
+### 📚 Current Journey
+I’m currently studying and pursuing certifications such as:
+- CKA (Certified Kubernetes Administrator)  
+- CKS (Certified Kubernetes Security Specialist)  
+- HashiCorp Vault Associate  
 
-fn main() {
-    let highlander = Developer::new();
+This GitHub will increasingly reflect my projects and experiments related to **reliability engineering, security, and automation** — often with Rust and Go at the core.
 
-    highlander.introduce();
-    highlander.advise();
-}
+---
 
-```
+### 🌐 More about me
+- Blog: [blog.hvpaiva.dev](https://blog.hvpaiva.dev)  
+- LinkedIn: [linkedin.com/in/hvpaiva](https://www.linkedin.com/in/hvpaiva/)  
 
-- 🔗 LinkedIn: [Highlander Paiva](https://www.linkedin.com/in/hvpaiva)
+---
+
+> “People sell DevOps, but you can’t buy it.” — Andrew Clay Shafer
 
 
 <br/>
