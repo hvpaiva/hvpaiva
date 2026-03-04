@@ -7,18 +7,12 @@ I started my career in design and gradually moved through front-end, back-end, a
 ---
 
 ### 📚 Current Journey
-I'm building a solid foundation in security, following a structured path toward **Platform Security and DevSecOps**.
+I'm on a structured path toward **Platform Security and DevSecOps**, pursuing the following certifications in order:
 
-**Step 1 — Foundations**
-- [AWS Security Fundamentals](https://aws.amazon.com/training/digital/aws-security-fundamentals/)
-- [Google Cloud Security Foundations](https://www.cloudskillsboost.google/course_templates/486)
-
-**Step 2 — Specialization**
-- [Practical DevSecOps CDP](https://www.practical-devsecops.com/certified-devsecops-professional/) (Certified DevSecOps Professional)
-- [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) and/or [GCP Cloud Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer) _(still deciding)_
-
-**Step 3 — Consolidation**
-- [ISC² CCSP](https://www.isc2.org/certifications/ccsp) (Certified Cloud Security Professional)
+1. [Certified DevSecOps Professional (CDP)](https://www.practical-devsecops.com/certified-devsecops-professional/) — Practical DevSecOps
+2. [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) — Amazon Web Services
+3. [Professional Cloud Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer) — Google Cloud
+4. [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/certifications/ccsp) — ISC²
 
 My learning also runs through TryHackMe and OWASP standards (Top 10, ASVS, SAMM).
 
