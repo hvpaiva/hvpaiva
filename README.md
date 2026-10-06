@@ -1,56 +1,46 @@
-```
-HVPAIVA(1)                     General Commands Manual                     HVPAIVA(1)
-```
+<pre>
+HVPAIVA(1)                 General Commands Manual                  HVPAIVA(1)
 
-### NAME
+<b>NAME</b>
+       hvpaiva - Highlander Paiva, a programmer who writes command-line
+       tools for fun
 
-**hvpaiva** — Highlander Paiva, a programmer who writes command-line tools for fun
+<b>SYNOPSIS</b>
+       <b>hvpaiva</b> [<i>something annoying</i>] → <i>a small CLI that fixes it</i>
 
-### SYNOPSIS
+<b>DESCRIPTION</b>
+       I'm Highlander. I spend most of my free time in a terminal, building
+       small tools that do one thing well. Ruby is where I go when I want to
+       write something pleasant, Rust when I want it fast or just want an
+       excuse to write Rust, and Bash for everything in between.
 
-`hvpaiva` [*something annoying*] → *a small CLI that fixes it*
+       My day job is platform engineering. This page is about the other part.
 
-### DESCRIPTION
+<b>ENVIRONMENT</b>
+       <b>OS</b>          Arch Linux with <a href="https://omarchy.org">Omarchy</a>, tiled by Hyprland
+       <b>SHELL</b>       bash, with <a href="https://github.com/akinomyoga/ble.sh">ble.sh</a>
+       <b>EDITOR</b>      <a href="https://github.com/hvpaiva/nvim">nvim</a>
+       <b>DOTFILES</b>    <a href="https://github.com/hvpaiva/dotfiles">hvpaiva/dotfiles</a>, rewritten more times than I'd admit
 
-I'm Highlander. I spend most of my free time in a terminal, building small tools
-that do one thing well. Ruby is where I go when I want to write something pleasant,
-Rust when I want it fast or just want an excuse to write Rust, and Bash for
-everything in between.
+<b>EXAMPLES</b>
+       $ <b>td</b> "next friday at 3pm"
+       2025-01-17T15:00:00
 
-My day job is platform engineering. This page is about the other part.
+       $ <b>slipway</b> get projects -A
+       GROUP      NAME    BRANCH   STATUS   FETCHED   AGE
+       personal   augur   main     Dirty    &lt;never&gt;   1s
+       personal   hldr    main     Clean    5h        1s
 
-### ENVIRONMENT
+       $ <b>rich-ri</b> Array#map
 
-- `OS` — Arch Linux with [Omarchy](https://omarchy.org), tiled by Hyprland
-- `SHELL` — bash, with [ble.sh](https://github.com/akinomyoga/ble.sh)
-- `EDITOR` — [nvim](https://github.com/hvpaiva/nvim)
-- `DOTFILES` — [hvpaiva/dotfiles](https://github.com/hvpaiva/dotfiles), rewritten more times than I'd admit
+<b>BUGS</b>
+       Starts side projects faster than it finishes them.
 
-### EXAMPLES
+<b>SEE ALSO</b>
+       <b><a href="https://github.com/hvpaiva/tardis-cli">td</a></b>(1), <b><a href="https://github.com/hvpaiva/slipway">slipway</a></b>(1), <b><a href="https://github.com/hvpaiva/rich-ri">rich-ri</a></b>(1), <b><a href="https://github.com/hvpaiva/augur">augur</a></b>(1), <a href="https://hvpaiva.dev">hvpaiva.dev</a>
 
-```console
-$ td "next friday at 3pm"
-2025-01-17T15:00:00
-
-$ slipway get projects -A
-GROUP      NAME    BRANCH   STATUS   FETCHED   AGE
-personal   augur   main     Dirty    <never>   1s
-personal   hldr    main     Clean    5h        1s
-
-$ rich-ri Array#map
-```
-
-From [tardis-cli](https://github.com/hvpaiva/tardis-cli),
-[slipway](https://github.com/hvpaiva/slipway) and
-[rich-ri](https://github.com/hvpaiva/rich-ri).
-
-### BUGS
-
-Starts side projects faster than it finishes them.
-
-### SEE ALSO
-
-[hvpaiva.dev](https://hvpaiva.dev)
+hvpaiva                       rust · ruby · bash                    HVPAIVA(1)
+</pre>
 
 <br/>
 
@@ -62,7 +52,3 @@ Starts side projects faster than it finishes them.
 </div>
 
 <br/>
-
-```
-hvpaiva                          rust · ruby · bash                        HVPAIVA(1)
-```
