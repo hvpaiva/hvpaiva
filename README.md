@@ -1,30 +1,56 @@
-# Hi, I'm Highlander Paiva 👋
+```
+HVPAIVA(1)                     General Commands Manual                     HVPAIVA(1)
+```
 
-I am a **Senior Platform Engineer** with experience building and maintaining large-scale developer platforms and critical services. My current work focuses on **CI/CD delivery pipelines, cloud integration, automation, and security practices**.
+### NAME
 
-I started my career in design and gradually moved through front-end, back-end, and full-stack development, before landing in platform engineering. I'm now shifting my focus toward **DevSecOps and Application Security** — bringing security into the core of the platform and the delivery pipeline.
+**hvpaiva** — Highlander Paiva, a programmer who writes command-line tools for fun
 
----
+### SYNOPSIS
 
-### 📚 Current Journey
-I'm on a structured path toward **Platform Security and DevSecOps**, pursuing the following certifications in order:
+`hvpaiva` [*something annoying*] → *a small CLI that fixes it*
 
-1. [Certified DevSecOps Professional (CDP)](https://www.practical-devsecops.com/certified-devsecops-professional/) — Practical DevSecOps
-2. [AWS Certified Security – Specialty](https://aws.amazon.com/certification/certified-security-specialty/) — Amazon Web Services
-3. [Professional Cloud Security Engineer](https://cloud.google.com/learn/certification/cloud-security-engineer) — Google Cloud
-4. [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/certifications/ccsp) — ISC²
+### DESCRIPTION
 
-My learning also runs through TryHackMe and OWASP standards (Top 10, ASVS, SAMM).
+I'm Highlander. I spend most of my free time in a terminal, building small tools
+that do one thing well. Ruby is where I go when I want to write something pleasant,
+Rust when I want it fast or just want an excuse to write Rust, and Bash for
+everything in between.
 
----
+My day job is platform engineering. This page is about the other part.
 
-### 🌐 More about me
-- Blog: [blog.hvpaiva.dev](https://blog.hvpaiva.dev)
-- LinkedIn: [linkedin.com/in/hvpaiva](https://www.linkedin.com/in/hvpaiva/)
+### ENVIRONMENT
 
----
+- `OS` — Arch Linux with [Omarchy](https://omarchy.org), tiled by Hyprland
+- `SHELL` — bash, with [ble.sh](https://github.com/akinomyoga/ble.sh)
+- `EDITOR` — [nvim](https://github.com/hvpaiva/nvim)
+- `DOTFILES` — [hvpaiva/dotfiles](https://github.com/hvpaiva/dotfiles), rewritten more times than I'd admit
 
-> "People sell DevOps, but you can't buy it." — Andrew Clay Shafer
+### EXAMPLES
+
+```console
+$ td "next friday at 3pm"
+2025-01-17T15:00:00
+
+$ slipway get projects -A
+GROUP      NAME    BRANCH   STATUS   FETCHED   AGE
+personal   augur   main     Dirty    <never>   1s
+personal   hldr    main     Clean    5h        1s
+
+$ rich-ri Array#map
+```
+
+From [tardis-cli](https://github.com/hvpaiva/tardis-cli),
+[slipway](https://github.com/hvpaiva/slipway) and
+[rich-ri](https://github.com/hvpaiva/rich-ri).
+
+### BUGS
+
+Starts side projects faster than it finishes them.
+
+### SEE ALSO
+
+[hvpaiva.dev](https://hvpaiva.dev)
 
 <br/>
 
@@ -36,3 +62,7 @@ My learning also runs through TryHackMe and OWASP standards (Top 10, ASVS, SAMM)
 </div>
 
 <br/>
+
+```
+hvpaiva                          rust · ruby · bash                        HVPAIVA(1)
+```
